@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
 # place and measure placement error
 
-source activate apples_support
+# source activate apples_support
+
+if [[ $# -eq 0 ]]; then
+   echo "PLEASE PROVIDE PATH TO apples2-support AS FIRST ARGUMENT!!"
+fi
 
 apples_dir=$1 # path to apples-2-support code
 
