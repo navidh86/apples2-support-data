@@ -1,5 +1,5 @@
 # apples2-support-data
-This repository contains data used in "Distance-based phylogenetic placement with statistical support".
+This repository contains data used in "Distance-based phylogenetic placement with statistical support" (https://doi.org/10.3390/biology11081212).
 
 -prerequisites
   1. linux, bash, anaconda (miniconda)
